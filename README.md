@@ -1,1 +1,3 @@
-# Python-Algorithms-and-Patterns : These are for study purposes
+# Python-Algorithms-and-Patterns
+
+These are for study purposes only
