@@ -1,3 +1,3 @@
 # Python-Algorithms-and-Patterns
 
-These are for study purposes only
+These are various kinds of patterns implemented using python.
