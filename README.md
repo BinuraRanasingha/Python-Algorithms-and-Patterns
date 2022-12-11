@@ -1,3 +1,3 @@
 # Python-Algorithms-and-Patterns
 
-These are various kinds of patterns implemented using python.
+This repository contains python coding and this repository is used for study purposes
